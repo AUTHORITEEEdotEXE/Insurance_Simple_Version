@@ -1,0 +1,15 @@
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\bin\Debug\net6.0\EvidenciaPoistenia.exe
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\bin\Debug\net6.0\EvidenciaPoistenia.deps.json
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\bin\Debug\net6.0\EvidenciaPoistenia.runtimeconfig.json
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\bin\Debug\net6.0\EvidenciaPoistenia.dll
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\bin\Debug\net6.0\EvidenciaPoistenia.pdb
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.csproj.AssemblyReference.cache
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.AssemblyInfoInputs.cache
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.AssemblyInfo.cs
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.csproj.CoreCompileInputs.cache
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.dll
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\refint\EvidenciaPoistenia.dll
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.pdb
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\EvidenciaPoistenia.genruntimeconfig.cache
+C:\Users\mysmy\Dropbox\Csharp\EvidenciaPoistenia\EvidenciaPoistenia\obj\Debug\net6.0\ref\EvidenciaPoistenia.dll
